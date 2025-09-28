@@ -1,0 +1,203 @@
+{
+  "fonts": {
+    "files": [
+      {
+        "url": "https://cdn-game-mcp-test.gambo.ai/shared/supercell-magic_0.ttf",
+        "type": "font",
+        "key": "SupercellMagic",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "refined_notebook_title_background",
+        "url": "https://cdn-game-mcp.gambo.ai/3b78cc5d-b65b-4adc-95f3-fa6ec4ed059c/images/refined_notebook_title_background.png"
+      },
+      {
+        "type": "image",
+        "key": "refined_notebook_grid_background",
+        "url": "https://cdn-game-mcp.gambo.ai/c3fddd74-f57b-4263-b4c9-2eaf874961c7/images/refined_notebook_grid_background.png"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "game_title",
+        "url": "https://cdn-game-mcp.gambo.ai/6a2eacf2-1a8e-443e-95dc-c41007502cc8/images/game_title.png"
+      }
+    ]
+  },
+  "characters": {
+    "files": [
+      {
+        "type": "image",
+        "key": "small_doodle_creature_idle",
+        "url": "https://cdn-game-mcp.gambo.ai/63eb673b-c1c0-4c91-9b56-f4c500793223/images/small_doodle_creature_idle.png"
+      },
+      {
+        "type": "image",
+        "key": "small_doodle_creature_shooting_clean",
+        "url": "https://cdn-game-mcp.gambo.ai/7fc2db10-d069-4909-8a3e-ca9f52036293/images/small_doodle_creature_shooting_clean.png"
+      },
+      {
+        "type": "image",
+        "key": "small_doodle_creature_jetpack",
+        "url": "https://cdn-game-mcp.gambo.ai/c3a399d2-83a8-48fd-8fcd-7ac5a93ef388/images/small_doodle_creature_jetpack.png"
+      },
+      {
+        "type": "image",
+        "key": "small_doodle_creature_spring_shoes",
+        "url": "https://cdn-game-mcp.gambo.ai/f00540f7-f953-4ec6-9518-8c9e01efb287/images/small_doodle_creature_spring_shoes.png"
+      },
+      {
+        "type": "image",
+        "key": "small_doodle_creature_propeller_hat_fixed",
+        "url": "https://cdn-game-mcp.gambo.ai/caf9467a-16c0-4d6f-8cac-49abe74f4e56/images/small_doodle_creature_propeller_hat_fixed.png"
+      }
+    ]
+  },
+  "platforms": {
+    "files": [
+      {
+        "type": "image",
+        "key": "uniform_doodle_normal_platform",
+        "url": "https://cdn-game-mcp.gambo.ai/ef8b9245-3e24-491a-adcd-a37d2a306b59/images/uniform_doodle_normal_platform.png"
+      },
+      {
+        "type": "image",
+        "key": "cracked_doodle_platform",
+        "url": "https://cdn-game-mcp.gambo.ai/3abee52c-4c0c-47b4-aeb5-b3c0b42f0b0b/images/cracked_doodle_platform.png"
+      },
+      {
+        "type": "image",
+        "key": "uniform_doodle_moving_platform",
+        "url": "https://cdn-game-mcp.gambo.ai/6b5e5e83-2c99-465c-b9a8-60b0e62c7a23/images/uniform_doodle_moving_platform.png"
+      },
+      {
+        "type": "image",
+        "key": "purple_doodle_spring_platform",
+        "url": "https://cdn-game-mcp.gambo.ai/b5d5a8e8-32b5-456a-b36b-b8cecd2e8993/images/purple_doodle_spring_platform.png"
+      },
+      {
+        "type": "image",
+        "key": "purple_spring_platform_compressed",
+        "url": "https://cdn-game-mcp.gambo.ai/54b26b8b-ea18-4b9c-b5c0-a57dc52a5f8c/images/purple_spring_platform_compressed.png"
+      }
+    ]
+  },
+  "powerups": {
+    "files": [
+      {
+        "type": "image",
+        "key": "jetpack_powerup",
+        "url": "https://cdn-game-mcp.gambo.ai/c64b5b14-c069-44ed-adfe-2bbb35f63ced/images/jetpack_powerup.png"
+      },
+      {
+        "type": "image",
+        "key": "spring_shoes_powerup",
+        "url": "https://cdn-game-mcp.gambo.ai/c8654a05-dc16-4a86-95a8-0b65f5e0e3d5/images/spring_shoes_powerup.png"
+      },
+      {
+        "type": "image",
+        "key": "propeller_hat_powerup",
+        "url": "https://cdn-game-mcp.gambo.ai/1b3d3e3f-f8f8-48c8-8d9d-4b16c0e0d5e1/images/propeller_hat_powerup.png"
+      }
+    ]
+  },
+  "enemies": {
+    "files": [
+      {
+        "type": "image",
+        "key": "enemy_monster",
+        "url": "https://cdn-game-mcp.gambo.ai/1b5f3c7b-4a8e-4e8f-9e9e-5f5f8c8e8f8f/images/enemy_monster.png"
+      }
+    ]
+  },
+  "projectiles": {
+    "files": [
+      {
+        "type": "image",
+        "key": "ultra_tiny_bullet_dot",
+        "url": "https://cdn-game-mcp.gambo.ai/8e8e8e8e-8e8e-8e8e-8e8e-8e8e8e8e8e8e/images/ultra_tiny_bullet_dot.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "jump_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/1d13f34f-a1cc-444d-a25c-f944a577d5e0/sound_effects/jump_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "platform_break",
+        "url": "https://cdn-game-mcp.gambo.ai/8f697849-d63f-4651-8735-ec6d330622ea/sound_effects/platform_break.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "spring_boing",
+        "url": "https://cdn-game-mcp.gambo.ai/3b20809c-1a56-4298-ae72-2f502eceeae7/sound_effects/spring_boing.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "platform_compress",
+        "url": "https://cdn-game-mcp.gambo.ai/16e0ea4d-750a-41b5-a688-b85e420e7813/sound_effects/platform_compress.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "jetpack_thrust",
+        "url": "https://cdn-game-mcp.gambo.ai/9a9d47c4-9a03-41ab-9594-d620d99cfc10/sound_effects/jetpack_thrust.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "propeller_spinning",
+        "url": "https://cdn-game-mcp.gambo.ai/c80b7f55-c9c7-498c-9c70-5d53ffae2497/sound_effects/propeller_spinning.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "powerup_collect",
+        "url": "https://cdn-game-mcp.gambo.ai/a1b2c3d4-e5f6-789a-bcde-f0123456789a/sound_effects/powerup_collect.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "enemy_defeat",
+        "url": "https://cdn-game-mcp.gambo.ai/b2c3d4e5-f6a7-89bc-def0-123456789abc/sound_effects/enemy_defeat.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "shoot_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/c3d4e5f6-a789-bcde-f012-3456789abcde/sound_effects/shoot_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "game_over",
+        "url": "https://cdn-game-mcp.gambo.ai/d4e5f6a7-89bc-def0-1234-56789abcdef0/sound_effects/game_over.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ui_click",
+        "url": "https://cdn-game-mcp.gambo.ai/e5f6a789-bcde-f012-3456-789abcdef012/sound_effects/ui_click.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "gentle_background_ambient",
+        "url": "https://cdn-game-mcp.gambo.ai/0b1b37b8-f527-47e4-a3ce-9609f60895ea/music/gentle_background_ambient.wav"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Doodle Jump Game",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,13 +1,14 @@
-import Phaser from "phaser"
-import PreloaderScene from "./scenes/PreloaderScene.js"
-import { TitleScene } from "./scenes/TitleScene.js"
-import GameScene from "./scenes/GameScene"
-import { GameOverScene } from "./scenes/GameOverScene.js"
-import UIScene from "./scenes/UIScene.js"
-import { screenSize, debugConfig, renderConfig } from "./gameConfig.json"
+import Phaser from "phaser";
+import PreloaderScene from "./scenes/PreloaderScene.js";
+import { TitleScene } from "./scenes/TitleScene.js";
+import GameScene from "./scenes/GameScene.js";
+import { GameOverScene } from "./scenes/GameOverScene.js";
+import UIScene from "./scenes/UIScene.js";
+import { screenSize, debugConfig, renderConfig } from "./gameConfig.json";
 
 const config = {
   type: Phaser.AUTO,
+  parent: "game",
   width: screenSize.width.value,
   height: screenSize.height.value,
   scale: {
@@ -25,6 +26,6 @@ const config = {
   },
   pixelArt: renderConfig.pixelArt.value,
   scene: [PreloaderScene, TitleScene, GameScene, UIScene, GameOverScene],
-}
+};
 
-export default new Phaser.Game(config)
+export default new Phaser.Game(config);
